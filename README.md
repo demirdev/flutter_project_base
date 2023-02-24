@@ -4,6 +4,11 @@ A new Flutter project.
 
 ## Getting Started
 
+### analysis_options.yaml
+Added from : https://github.com/ubuntu-flutter-community/settings/blob/master/analysis_options.yaml
+
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
